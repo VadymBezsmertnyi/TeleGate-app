@@ -8,7 +8,7 @@ export const getApiUrl = (isProduction: boolean = false) => {
   if (__DEV__ && !isProduction) {
     const baseUrl =
       Platform.OS === "android" || Device.isDevice
-        ? "https://api.example.com/api/"
+        ? process.env.EXPO_PUBLIC_BACKEND_API_BASE_URL || "https://api.example.com/api/"
         : "http://localhost:5008/api/";
     return baseUrl;
   }

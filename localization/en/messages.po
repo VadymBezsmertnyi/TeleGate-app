@@ -1,0 +1,1554 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-08 07:07+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: en\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Checking authentication..."
+msgstr "Checking authentication..."
+
+#. js-lingui-explicit-id
+msgid "Welcome back! Redirecting..."
+msgstr "Welcome back! Redirecting..."
+
+#. js-lingui-explicit-id
+msgid "Redirecting to login..."
+msgstr "Redirecting to login..."
+
+#. js-lingui-explicit-id
+msgid "Loading..."
+msgstr "Loading..."
+
+#. js-lingui-explicit-id
+msgid "No members match your search"
+msgstr "No members match your search"
+
+#. js-lingui-explicit-id
+msgid "Try adjusting your search or filters"
+msgstr "Try adjusting your search or filters"
+
+#. js-lingui-explicit-id
+msgid "No members found"
+msgstr "No members found"
+
+#. js-lingui-explicit-id
+msgid "You haven't added any members yet"
+msgstr "You haven't added any members yet"
+
+#. js-lingui-explicit-id
+msgid "Users are added automatically to the group"
+msgstr "Users are added automatically to the group"
+
+#. js-lingui-explicit-id
+msgid "Bot Setup"
+msgstr "Bot Setup"
+
+#. js-lingui-explicit-id
+msgid "Users"
+msgstr "Users"
+
+#. js-lingui-explicit-id
+msgid "Search users..."
+msgstr "Search users..."
+
+#. js-lingui-explicit-id
+msgid "All"
+msgstr "All"
+
+#. js-lingui-explicit-id
+msgid "Members"
+msgstr "Members"
+
+#. js-lingui-explicit-id
+msgid "Administrators"
+msgstr "Administrators"
+
+#. js-lingui-explicit-id
+msgid "Creators"
+msgstr "Creators"
+
+#. js-lingui-explicit-id
+msgid "Applied Filters"
+msgstr "Applied Filters"
+
+#. js-lingui-explicit-id
+msgid "Status"
+msgstr "Status"
+
+#. js-lingui-explicit-id
+msgid "Creator"
+msgstr "Creator"
+
+#. js-lingui-explicit-id
+msgid "Administrator"
+msgstr "Administrator"
+
+#. js-lingui-explicit-id
+msgid "Member"
+msgstr "Member"
+
+#. js-lingui-explicit-id
+msgid "Restricted"
+msgstr "Restricted"
+
+#. js-lingui-explicit-id
+msgid "Left"
+msgstr "Left"
+
+#. js-lingui-explicit-id
+msgid "Kicked"
+msgstr "Kicked"
+
+#. js-lingui-explicit-id
+msgid "User Type"
+msgstr "User Type"
+
+#. js-lingui-explicit-id
+msgid "Regular User"
+msgstr "Regular User"
+
+#. js-lingui-explicit-id
+msgid "Bot"
+msgstr "Bot"
+
+#. js-lingui-explicit-id
+msgid "Language"
+msgstr "Language"
+
+#. js-lingui-explicit-id
+msgid "Capabilities"
+msgstr "Capabilities"
+
+#. js-lingui-explicit-id
+msgid "Can Join Groups"
+msgstr "Can Join Groups"
+
+#. js-lingui-explicit-id
+msgid "Can Read All Messages"
+msgstr "Can Read All Messages"
+
+#. js-lingui-explicit-id
+msgid "Supports Inline Queries"
+msgstr "Supports Inline Queries"
+
+#. js-lingui-explicit-id
+msgid "Created Date"
+msgstr "Created Date"
+
+#. js-lingui-explicit-id
+msgid "Last 7 days"
+msgstr "Last 7 days"
+
+#. js-lingui-explicit-id
+msgid "Last 30 days"
+msgstr "Last 30 days"
+
+#. js-lingui-explicit-id
+msgid "Last 90 days"
+msgstr "Last 90 days"
+
+#. js-lingui-explicit-id
+msgid "Last year"
+msgstr "Last year"
+
+#. js-lingui-explicit-id
+msgid "Filters"
+msgstr "Filters"
+
+#. js-lingui-explicit-id
+msgid "Only members matching all selected criteria will be shown."
+msgstr "Only members matching all selected criteria will be shown."
+
+#. js-lingui-explicit-id
+msgid "Reset"
+msgstr "Reset"
+
+#. js-lingui-explicit-id
+msgid "Save as view"
+msgstr "Save as view"
+
+#. js-lingui-explicit-id
+msgid "Apply Filters"
+msgstr "Apply Filters"
+
+#. js-lingui-explicit-id
+msgid "Error"
+msgstr "Error"
+
+#. js-lingui-explicit-id
+msgid "Cannot send message: user not found or not in any groups"
+msgstr "Cannot send message: user not found or not in any groups"
+
+#. js-lingui-explicit-id
+msgid "OK"
+msgstr "OK"
+
+#. js-lingui-explicit-id
+msgid "Feature in Development"
+msgstr "Feature in Development"
+
+#. js-lingui-explicit-id
+msgid "User removal functionality is currently being developed"
+msgstr "User removal functionality is currently being developed"
+
+#. js-lingui-explicit-id
+msgid "User data not available"
+msgstr "User data not available"
+
+#. js-lingui-explicit-id
+msgid "Profile not available"
+msgstr "Profile not available"
+
+#. js-lingui-explicit-id
+msgid "This user has no public Telegram profile"
+msgstr "This user has no public Telegram profile"
+
+#. js-lingui-explicit-id
+msgid "Telegram profile not available"
+msgstr "Telegram profile not available"
+
+#. js-lingui-explicit-id
+msgid "Failed to open profile in Telegram"
+msgstr "Failed to open profile in Telegram"
+
+#. js-lingui-explicit-id
+msgid "User Details"
+msgstr "User Details"
+
+#. js-lingui-explicit-id
+msgid "groups"
+msgstr "groups"
+
+#. js-lingui-explicit-id
+msgid "subscriptions"
+msgstr "subscriptions"
+
+#. js-lingui-explicit-id
+msgid "days delay"
+msgstr "days delay"
+
+#. js-lingui-explicit-id
+msgid "View Profile"
+msgstr "View Profile"
+
+#. js-lingui-explicit-id
+msgid "Message"
+msgstr "Message"
+
+#. js-lingui-explicit-id
+msgid "Remove"
+msgstr "Remove"
+
+#. js-lingui-explicit-id
+msgid "Active Groups"
+msgstr "Active Groups"
+
+#. js-lingui-explicit-id
+msgid "Show all"
+msgstr "Show all"
+
+#. js-lingui-explicit-id
+msgid "more"
+msgstr "more"
+
+#. js-lingui-explicit-id
+msgid "Show less"
+msgstr "Show less"
+
+#. js-lingui-explicit-id
+msgid "Active Subscriptions"
+msgstr "Active Subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Subscription"
+msgstr "Subscription"
+
+#. js-lingui-explicit-id
+msgid "Group"
+msgstr "Group"
+
+#. js-lingui-explicit-id
+msgid "Until"
+msgstr "Until"
+
+#. js-lingui-explicit-id
+msgid "Message cannot be empty"
+msgstr "Message cannot be empty"
+
+#. js-lingui-explicit-id
+msgid "User not available"
+msgstr "User not available"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one group"
+msgstr "Please select at least one group"
+
+#. js-lingui-explicit-id
+msgid "Message sent successfully"
+msgstr "Message sent successfully"
+
+#. js-lingui-explicit-id
+msgid "Failed to send message"
+msgstr "Failed to send message"
+
+#. js-lingui-explicit-id
+msgid "Send Message"
+msgstr "Send Message"
+
+#. js-lingui-explicit-id
+msgid "User"
+msgstr "User"
+
+#. js-lingui-explicit-id
+msgid "Select Groups"
+msgstr "Select Groups"
+
+#. js-lingui-explicit-id
+msgid "User is not a member of any groups"
+msgstr "User is not a member of any groups"
+
+#. js-lingui-explicit-id
+msgid "Type your message here..."
+msgstr "Type your message here..."
+
+#. js-lingui-explicit-id
+msgid "Sending..."
+msgstr "Sending..."
+
+#. js-lingui-explicit-id
+msgid "My Subscriptions"
+msgstr "My Subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Compare Plans"
+msgstr "Compare Plans"
+
+#. js-lingui-explicit-id
+msgid "Free"
+msgstr "Free"
+
+#. js-lingui-explicit-id
+msgid "Current Plan"
+msgstr "Current Plan"
+
+#. js-lingui-explicit-id
+msgid "Basic features, limited access"
+msgstr "Basic features, limited access"
+
+#. js-lingui-explicit-id
+msgid "Manage 1 group"
+msgstr "Manage 1 group"
+
+#. js-lingui-explicit-id
+msgid "Up to 20 members per group"
+msgstr "Up to 20 members per group"
+
+#. js-lingui-explicit-id
+msgid "No filters"
+msgstr "No filters"
+
+#. js-lingui-explicit-id
+msgid "No analytics"
+msgstr "No analytics"
+
+#. js-lingui-explicit-id
+msgid "No bot templates"
+msgstr "No bot templates"
+
+#. js-lingui-explicit-id
+msgid "No automation"
+msgstr "No automation"
+
+#. js-lingui-explicit-id
+msgid "Upgrade to Pro"
+msgstr "Upgrade to Pro"
+
+#. js-lingui-explicit-id
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#. js-lingui-explicit-id
+msgid "Manage up to 5 groups"
+msgstr "Manage up to 5 groups"
+
+#. js-lingui-explicit-id
+msgid "Unlimited groups"
+msgstr "Unlimited groups"
+
+#. js-lingui-explicit-id
+msgid "Up to 100 members per group"
+msgstr "Up to 100 members per group"
+
+#. js-lingui-explicit-id
+msgid "Unlimited members"
+msgstr "Unlimited members"
+
+#. js-lingui-explicit-id
+msgid "Available filters"
+msgstr "Available filters"
+
+#. js-lingui-explicit-id
+msgid "Smart filters"
+msgstr "Smart filters"
+
+#. js-lingui-explicit-id
+msgid "Basic analytics"
+msgstr "Basic analytics"
+
+#. js-lingui-explicit-id
+msgid "Full analytics"
+msgstr "Full analytics"
+
+#. js-lingui-explicit-id
+msgid "Basic bot templates"
+msgstr "Basic bot templates"
+
+#. js-lingui-explicit-id
+msgid "Advanced bot scenarios"
+msgstr "Advanced bot scenarios"
+
+#. js-lingui-explicit-id
+msgid "Automation (coming soon)"
+msgstr "Automation (coming soon)"
+
+#. js-lingui-explicit-id
+msgid "Upgrade to"
+msgstr "Upgrade to"
+
+#. js-lingui-explicit-id
+msgid "Logout"
+msgstr "Logout"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to logout?"
+msgstr "Are you sure you want to logout?"
+
+#. js-lingui-explicit-id
+msgid "Cancel"
+msgstr "Cancel"
+
+#. js-lingui-explicit-id
+msgid "Settings"
+msgstr "Settings"
+
+#. js-lingui-explicit-id
+msgid "Bot Templates & Settings"
+msgstr "Bot Templates & Settings"
+
+#. js-lingui-explicit-id
+msgid "Theme"
+msgstr "Theme"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Privacy Policy"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Terms of Use"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "About"
+
+#. js-lingui-explicit-id
+msgid "Manage groups"
+msgstr "Manage groups"
+
+#. js-lingui-explicit-id
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#. js-lingui-explicit-id
+msgid "Members per group"
+msgstr "Members per group"
+
+#. js-lingui-explicit-id
+msgid "Analytics"
+msgstr "Analytics"
+
+#. js-lingui-explicit-id
+msgid "Basic"
+msgstr "Basic"
+
+#. js-lingui-explicit-id
+msgid "Full"
+msgstr "Full"
+
+#. js-lingui-explicit-id
+msgid "Bot templates"
+msgstr "Bot templates"
+
+#. js-lingui-explicit-id
+msgid "Advanced"
+msgstr "Advanced"
+
+#. js-lingui-explicit-id
+msgid "Automation"
+msgstr "Automation"
+
+#. js-lingui-explicit-id
+msgid "Coming soon"
+msgstr "Coming soon"
+
+#. js-lingui-explicit-id
+msgid "Feature"
+msgstr "Feature"
+
+#. js-lingui-explicit-id
+msgid "Pro"
+msgstr "Pro"
+
+#. js-lingui-explicit-id
+msgid "Ultimate"
+msgstr "Ultimate"
+
+#. js-lingui-explicit-id
+msgid "Upgrade to Ultimate"
+msgstr "Upgrade to Ultimate"
+
+#. js-lingui-explicit-id
+msgid "Reset Template"
+msgstr "Reset Template"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to reset this template to default?"
+msgstr "Are you sure you want to reset this template to default?"
+
+#. js-lingui-explicit-id
+msgid "Delete Template"
+msgstr "Delete Template"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to delete this template?"
+msgstr "Are you sure you want to delete this template?"
+
+#. js-lingui-explicit-id
+msgid "Delete"
+msgstr "Delete"
+
+#. js-lingui-explicit-id
+msgid "Bot Templates"
+msgstr "Bot Templates"
+
+#. js-lingui-explicit-id
+msgid "Loading templates..."
+msgstr "Loading templates..."
+
+#. js-lingui-explicit-id
+msgid "No Templates"
+msgstr "No Templates"
+
+#. js-lingui-explicit-id
+msgid "Create your first message template to get started"
+msgstr "Create your first message template to get started"
+
+#. js-lingui-explicit-id
+msgid "Create Template"
+msgstr "Create Template"
+
+#. js-lingui-explicit-id
+msgid "Enter your message template..."
+msgstr "Enter your message template..."
+
+#. js-lingui-explicit-id
+msgid "Edit"
+msgstr "Edit"
+
+#. js-lingui-explicit-id
+msgid "Reset to Default"
+msgstr "Reset to Default"
+
+#. js-lingui-explicit-id
+msgid "Template title is required"
+msgstr "Template title is required"
+
+#. js-lingui-explicit-id
+msgid "Template message is required"
+msgstr "Template message is required"
+
+#. js-lingui-explicit-id
+msgid "Discard Changes"
+msgstr "Discard Changes"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to discard changes?"
+msgstr "Are you sure you want to discard changes?"
+
+#. js-lingui-explicit-id
+msgid "Discard"
+msgstr "Discard"
+
+#. js-lingui-explicit-id
+msgid "Edit Template"
+msgstr "Edit Template"
+
+#. js-lingui-explicit-id
+msgid "Template Title"
+msgstr "Template Title"
+
+#. js-lingui-explicit-id
+msgid "Enter template title..."
+msgstr "Enter template title..."
+
+#. js-lingui-explicit-id
+msgid "Description"
+msgstr "Description"
+
+#. js-lingui-explicit-id
+msgid "Enter description..."
+msgstr "Enter description..."
+
+#. js-lingui-explicit-id
+msgid "Message Template"
+msgstr "Message Template"
+
+#. js-lingui-explicit-id
+msgid "Available Variables"
+msgstr "Available Variables"
+
+#. js-lingui-explicit-id
+msgid "Tap on a variable to insert it into your message"
+msgstr "Tap on a variable to insert it into your message"
+
+#. js-lingui-explicit-id
+msgid "Example Message"
+msgstr "Example Message"
+
+#. js-lingui-explicit-id
+msgid "Welcome {username} to {group}! We're glad to have you here. Your subscription expires on {expiry_date}."
+msgstr "Welcome {username} to {group}! We're glad to have you here. Your subscription expires on {expiry_date}."
+
+#. js-lingui-explicit-id
+msgid "Update"
+msgstr "Update"
+
+#. js-lingui-explicit-id
+msgid "Create"
+msgstr "Create"
+
+#. js-lingui-explicit-id
+msgid "Cannot open Telegram"
+msgstr "Cannot open Telegram"
+
+#. js-lingui-explicit-id
+msgid "Authentication bot for TeleGate app"
+msgstr "Authentication bot for TeleGate app"
+
+#. js-lingui-explicit-id
+msgid "How to add bot to group"
+msgstr "How to add bot to group"
+
+#. js-lingui-explicit-id
+msgid "Open bot in Telegram"
+msgstr "Open bot in Telegram"
+
+#. js-lingui-explicit-id
+msgid "Click the button below to open the bot in Telegram"
+msgstr "Click the button below to open the bot in Telegram"
+
+#. js-lingui-explicit-id
+msgid "Open Bot"
+msgstr "Open Bot"
+
+#. js-lingui-explicit-id
+msgid "Add bot to your group"
+msgstr "Add bot to your group"
+
+#. js-lingui-explicit-id
+msgid "In the bot chat, click 'Add to Group or Channel' button"
+msgstr "In the bot chat, click 'Add to Group or Channel' button"
+
+#. js-lingui-explicit-id
+msgid "Grant all permissions"
+msgstr "Grant all permissions"
+
+#. js-lingui-explicit-id
+msgid "Make sure to enable all permissions for the bot"
+msgstr "Make sure to enable all permissions for the bot"
+
+#. js-lingui-explicit-id
+msgid "About users"
+msgstr "About users"
+
+#. js-lingui-explicit-id
+msgid "Users are added automatically to the group or when you tag them"
+msgstr "Users are added automatically to the group or when you tag them"
+
+#. js-lingui-explicit-id
+msgid "Some users may have private profiles, so not all data may be available"
+msgstr "Some users may have private profiles, so not all data may be available"
+
+#. js-lingui-explicit-id
+msgid "Required permissions"
+msgstr "Required permissions"
+
+#. js-lingui-explicit-id
+msgid "Delete messages"
+msgstr "Delete messages"
+
+#. js-lingui-explicit-id
+msgid "Ban users"
+msgstr "Ban users"
+
+#. js-lingui-explicit-id
+msgid "Invite users via link"
+msgstr "Invite users via link"
+
+#. js-lingui-explicit-id
+msgid "Pin messages"
+msgstr "Pin messages"
+
+#. js-lingui-explicit-id
+msgid "Add new admins"
+msgstr "Add new admins"
+
+#. js-lingui-explicit-id
+msgid "Change group info"
+msgstr "Change group info"
+
+#. js-lingui-explicit-id
+msgid "This bot cannot independently manage a group"
+msgstr "This bot cannot independently manage a group"
+
+#. js-lingui-explicit-id
+msgid "Development status"
+msgstr "Development status"
+
+#. js-lingui-explicit-id
+msgid "The app is in development - some features may not be available or work as expected"
+msgstr "The app is in development - some features may not be available or work as expected"
+
+#. js-lingui-explicit-id
+msgid "Automation events are being developed to configure bot actions for user management in groups"
+msgstr "Automation events are being developed to configure bot actions for user management in groups"
+
+#. js-lingui-explicit-id
+msgid "Copied"
+msgstr "Copied"
+
+#. js-lingui-explicit-id
+msgid "Test Message"
+msgstr "Test Message"
+
+#. js-lingui-explicit-id
+msgid "Test message sent successfully!"
+msgstr "Test message sent successfully!"
+
+#. js-lingui-explicit-id
+msgid "Success"
+msgstr "Success"
+
+#. js-lingui-explicit-id
+msgid "Bot settings saved successfully!"
+msgstr "Bot settings saved successfully!"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to discard all changes?"
+msgstr "Are you sure you want to discard all changes?"
+
+#. js-lingui-explicit-id
+msgid "Bot Settings"
+msgstr "Bot Settings"
+
+#. js-lingui-explicit-id
+msgid "Manage Bot Message Templates"
+msgstr "Manage Bot Message Templates"
+
+#. js-lingui-explicit-id
+msgid "Bot Behavior Settings"
+msgstr "Bot Behavior Settings"
+
+#. js-lingui-explicit-id
+msgid "Auto-remove expired users"
+msgstr "Auto-remove expired users"
+
+#. js-lingui-explicit-id
+msgid "Grace period (days)"
+msgstr "Grace period (days)"
+
+#. js-lingui-explicit-id
+msgid "Auto-send reminders"
+msgstr "Auto-send reminders"
+
+#. js-lingui-explicit-id
+msgid "Reminder intervals"
+msgstr "Reminder intervals"
+
+#. js-lingui-explicit-id
+msgid "Integrations"
+msgstr "Integrations"
+
+#. js-lingui-explicit-id
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#. js-lingui-explicit-id
+msgid "Secret Token"
+msgstr "Secret Token"
+
+#. js-lingui-explicit-id
+msgid "Payment Provider"
+msgstr "Payment Provider"
+
+#. js-lingui-explicit-id
+msgid "Select payment provider"
+msgstr "Select payment provider"
+
+#. js-lingui-explicit-id
+msgid "Currency"
+msgstr "Currency"
+
+#. js-lingui-explicit-id
+msgid "Select currency"
+msgstr "Select currency"
+
+#. js-lingui-explicit-id
+msgid "Test Actions"
+msgstr "Test Actions"
+
+#. js-lingui-explicit-id
+msgid "Send Test Message to Me"
+msgstr "Send Test Message to Me"
+
+#. js-lingui-explicit-id
+msgid "Save"
+msgstr "Save"
+
+#. js-lingui-explicit-id
+msgid "Daily"
+msgstr "Daily"
+
+#. js-lingui-explicit-id
+msgid "Weekly"
+msgstr "Weekly"
+
+#. js-lingui-explicit-id
+msgid "Monthly"
+msgstr "Monthly"
+
+#. js-lingui-explicit-id
+msgid "Yearly"
+msgstr "Yearly"
+
+#. js-lingui-explicit-id
+msgid "Validation Error"
+msgstr "Validation Error"
+
+#. js-lingui-explicit-id
+msgid "Please fill in all required fields"
+msgstr "Please fill in all required fields"
+
+#. js-lingui-explicit-id
+msgid "Edit Subscription"
+msgstr "Edit Subscription"
+
+#. js-lingui-explicit-id
+msgid "Create Subscription"
+msgstr "Create Subscription"
+
+#. js-lingui-explicit-id
+msgid "Name"
+msgstr "Name"
+
+#. js-lingui-explicit-id
+msgid "Enter subscription name"
+msgstr "Enter subscription name"
+
+#. js-lingui-explicit-id
+msgid "Enter subscription description"
+msgstr "Enter subscription description"
+
+#. js-lingui-explicit-id
+msgid "Price"
+msgstr "Price"
+
+#. js-lingui-explicit-id
+msgid "0.00"
+msgstr "0.00"
+
+#. js-lingui-explicit-id
+msgid "Type"
+msgstr "Type"
+
+#. js-lingui-explicit-id
+msgid "Duration"
+msgstr "Duration"
+
+#. js-lingui-explicit-id
+msgid "Saving..."
+msgstr "Saving..."
+
+#. js-lingui-explicit-id
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#. js-lingui-explicit-id
+msgid "Select Currency"
+msgstr "Select Currency"
+
+#. js-lingui-explicit-id
+msgid "Search currencies..."
+msgstr "Search currencies..."
+
+#. js-lingui-explicit-id
+msgid "Select Type"
+msgstr "Select Type"
+
+#. js-lingui-explicit-id
+msgid "No groups match your search"
+msgstr "No groups match your search"
+
+#. js-lingui-explicit-id
+msgid "No groups found"
+msgstr "No groups found"
+
+#. js-lingui-explicit-id
+msgid "You haven't added any groups yet"
+msgstr "You haven't added any groups yet"
+
+#. js-lingui-explicit-id
+msgid "Groups"
+msgstr "Groups"
+
+#. js-lingui-explicit-id
+msgid "Search groups..."
+msgstr "Search groups..."
+
+#. js-lingui-explicit-id
+msgid "Connected"
+msgstr "Connected"
+
+#. js-lingui-explicit-id
+msgid "Disconnected"
+msgstr "Disconnected"
+
+#. js-lingui-explicit-id
+msgid "Active (7d)"
+msgstr "Active (7d)"
+
+#. js-lingui-explicit-id
+msgid "Active (30d)"
+msgstr "Active (30d)"
+
+#. js-lingui-explicit-id
+msgid "Inactive"
+msgstr "Inactive"
+
+#. js-lingui-explicit-id
+msgid "This month"
+msgstr "This month"
+
+#. js-lingui-explicit-id
+msgid "Bot Status"
+msgstr "Bot Status"
+
+#. js-lingui-explicit-id
+msgid "Members Count"
+msgstr "Members Count"
+
+#. js-lingui-explicit-id
+msgid "Activity"
+msgstr "Activity"
+
+#. js-lingui-explicit-id
+msgid "Select date range"
+msgstr "Select date range"
+
+#. js-lingui-explicit-id
+msgid "Only groups matching all selected criteria will be shown."
+msgstr "Only groups matching all selected criteria will be shown."
+
+#. js-lingui-explicit-id
+msgid "Unnamed Group"
+msgstr "Unnamed Group"
+
+#. js-lingui-explicit-id
+msgid "No users match your filter"
+msgstr "No users match your filter"
+
+#. js-lingui-explicit-id
+msgid "Try adjusting your filter or switch to 'All' tab"
+msgstr "Try adjusting your filter or switch to 'All' tab"
+
+#. js-lingui-explicit-id
+msgid "No users found"
+msgstr "No users found"
+
+#. js-lingui-explicit-id
+msgid "This group doesn't have any users yet"
+msgstr "This group doesn't have any users yet"
+
+#. js-lingui-explicit-id
+msgid "Manage Users"
+msgstr "Manage Users"
+
+#. js-lingui-explicit-id
+msgid "Unknown user"
+msgstr "Unknown user"
+
+#. js-lingui-explicit-id
+msgid "No subscription"
+msgstr "No subscription"
+
+#. js-lingui-explicit-id
+msgid "Active"
+msgstr "Active"
+
+#. js-lingui-explicit-id
+msgid "Expiring"
+msgstr "Expiring"
+
+#. js-lingui-explicit-id
+msgid "Expired"
+msgstr "Expired"
+
+#. js-lingui-explicit-id
+msgid "Until:"
+msgstr "Until:"
+
+#. js-lingui-explicit-id
+msgid "Group ID is required"
+msgstr "Group ID is required"
+
+#. js-lingui-explicit-id
+msgid "Failed to load user data"
+msgstr "Failed to load user data"
+
+#. js-lingui-explicit-id
+msgid "Function in development"
+msgstr "Function in development"
+
+#. js-lingui-explicit-id
+msgid "User deletion is temporarily unavailable"
+msgstr "User deletion is temporarily unavailable"
+
+#. js-lingui-explicit-id
+msgid "Sending template messages is temporarily unavailable"
+msgstr "Sending template messages is temporarily unavailable"
+
+#. js-lingui-explicit-id
+msgid "User not found"
+msgstr "User not found"
+
+#. js-lingui-explicit-id
+msgid "Check user ID validity"
+msgstr "Check user ID validity"
+
+#. js-lingui-explicit-id
+msgid "Basic Information"
+msgstr "Basic Information"
+
+#. js-lingui-explicit-id
+msgid "Subscriptions"
+msgstr "Subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Show history"
+msgstr "Show history"
+
+#. js-lingui-explicit-id
+msgid "Plan"
+msgstr "Plan"
+
+#. js-lingui-explicit-id
+msgid "Start"
+msgstr "Start"
+
+#. js-lingui-explicit-id
+msgid "End"
+msgstr "End"
+
+#. js-lingui-explicit-id
+msgid "Hide other subscriptions"
+msgstr "Hide other subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Show other subscriptions"
+msgstr "Show other subscriptions"
+
+#. js-lingui-explicit-id
+msgid "No active subscriptions"
+msgstr "No active subscriptions"
+
+#. js-lingui-explicit-id
+msgid "User has no active subscriptions"
+msgstr "User has no active subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Loading groups..."
+msgstr "Loading groups..."
+
+#. js-lingui-explicit-id
+msgid "Created"
+msgstr "Created"
+
+#. js-lingui-explicit-id
+msgid "Public"
+msgstr "Public"
+
+#. js-lingui-explicit-id
+msgid "Private"
+msgstr "Private"
+
+#. js-lingui-explicit-id
+msgid "User is not a member of any group"
+msgstr "User is not a member of any group"
+
+#. js-lingui-explicit-id
+msgid "Quick Actions"
+msgstr "Quick Actions"
+
+#. js-lingui-explicit-id
+msgid "Open profile in Telegram"
+msgstr "Open profile in Telegram"
+
+#. js-lingui-explicit-id
+msgid "Write message"
+msgstr "Write message"
+
+#. js-lingui-explicit-id
+msgid "Send template"
+msgstr "Send template"
+
+#. js-lingui-explicit-id
+msgid "Give subscription"
+msgstr "Give subscription"
+
+#. js-lingui-explicit-id
+msgid "Delete user"
+msgstr "Delete user"
+
+#. js-lingui-explicit-id
+msgid "Additional Information"
+msgstr "Additional Information"
+
+#. js-lingui-explicit-id
+msgid "Not specified"
+msgstr "Not specified"
+
+#. js-lingui-explicit-id
+msgid "Can join groups"
+msgstr "Can join groups"
+
+#. js-lingui-explicit-id
+msgid "Yes"
+msgstr "Yes"
+
+#. js-lingui-explicit-id
+msgid "No"
+msgstr "No"
+
+#. js-lingui-explicit-id
+msgid "Can read all messages"
+msgstr "Can read all messages"
+
+#. js-lingui-explicit-id
+msgid "Supports inline queries"
+msgstr "Supports inline queries"
+
+#. js-lingui-explicit-id
+msgid "Updated"
+msgstr "Updated"
+
+#. js-lingui-explicit-id
+msgid "Unnamed user"
+msgstr "Unnamed user"
+
+#. js-lingui-explicit-id
+msgid "Expiring soon"
+msgstr "Expiring soon"
+
+#. js-lingui-explicit-id
+msgid "Unknown"
+msgstr "Unknown"
+
+#. js-lingui-explicit-id
+msgid "Subscription History"
+msgstr "Subscription History"
+
+#. js-lingui-explicit-id
+msgid "All Subscriptions"
+msgstr "All Subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Purchase"
+msgstr "Purchase"
+
+#. js-lingui-explicit-id
+msgid "No subscription history found"
+msgstr "No subscription history found"
+
+#. js-lingui-explicit-id
+msgid "Group not found"
+msgstr "Group not found"
+
+#. js-lingui-explicit-id
+msgid "Unknown group"
+msgstr "Unknown group"
+
+#. js-lingui-explicit-id
+msgid "Unnamed group"
+msgstr "Unnamed group"
+
+#. js-lingui-explicit-id
+msgid "Recipient"
+msgstr "Recipient"
+
+#. js-lingui-explicit-id
+msgid "Send"
+msgstr "Send"
+
+#. js-lingui-explicit-id
+msgid "Failed to load subscriptions"
+msgstr "Failed to load subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Please select a subscription"
+msgstr "Please select a subscription"
+
+#. js-lingui-explicit-id
+msgid "day"
+msgstr "day"
+
+#. js-lingui-explicit-id
+msgid "week"
+msgstr "week"
+
+#. js-lingui-explicit-id
+msgid "month"
+msgstr "month"
+
+#. js-lingui-explicit-id
+msgid "year"
+msgstr "year"
+
+#. js-lingui-explicit-id
+msgid "Your subscription has been granted or extended in the group"
+msgstr "Your subscription has been granted or extended in the group"
+
+#. js-lingui-explicit-id
+msgid "Subscription details:"
+msgstr "Subscription details:"
+
+#. js-lingui-explicit-id
+msgid "Thank you for being with us!"
+msgstr "Thank you for being with us!"
+
+#. js-lingui-explicit-id
+msgid "Subscription granted successfully"
+msgstr "Subscription granted successfully"
+
+#. js-lingui-explicit-id
+msgid "Failed to give subscription"
+msgstr "Failed to give subscription"
+
+#. js-lingui-explicit-id
+msgid "Available subscriptions"
+msgstr "Available subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Loading subscriptions..."
+msgstr "Loading subscriptions..."
+
+#. js-lingui-explicit-id
+msgid "No subscriptions available for this group"
+msgstr "No subscriptions available for this group"
+
+#. js-lingui-explicit-id
+msgid "Giving..."
+msgstr "Giving..."
+
+#. js-lingui-explicit-id
+msgid "Delete Subscription"
+msgstr "Delete Subscription"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to delete this subscription? This action cannot be undone and will remove the subscription from all users."
+msgstr "Are you sure you want to delete this subscription? This action cannot be undone and will remove the subscription from all users."
+
+#. js-lingui-explicit-id
+msgid "subscribers"
+msgstr "subscribers"
+
+#. js-lingui-explicit-id
+msgid "No subscriptions"
+msgstr "No subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Create the first subscription for this group"
+msgstr "Create the first subscription for this group"
+
+#. js-lingui-explicit-id
+msgid "Add subscription"
+msgstr "Add subscription"
+
+#. js-lingui-explicit-id
+msgid "Group Subscriptions"
+msgstr "Group Subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Group Details: {groupName}"
+msgstr "Group Details: {groupName}"
+
+#. js-lingui-explicit-id
+msgid "Group Information"
+msgstr "Group Information"
+
+#. js-lingui-explicit-id
+msgid "members"
+msgstr "members"
+
+#. js-lingui-explicit-id
+msgid "Forum enabled"
+msgstr "Forum enabled"
+
+#. js-lingui-explicit-id
+msgid "User Statistics"
+msgstr "User Statistics"
+
+#. js-lingui-explicit-id
+msgid "Available Subscriptions"
+msgstr "Available Subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Total subscription plans available for this group"
+msgstr "Total subscription plans available for this group"
+
+#. js-lingui-explicit-id
+msgid "Active Users"
+msgstr "Active Users"
+
+#. js-lingui-explicit-id
+msgid "Users with active subscriptions"
+msgstr "Users with active subscriptions"
+
+#. js-lingui-explicit-id
+msgid "Expired Users"
+msgstr "Expired Users"
+
+#. js-lingui-explicit-id
+msgid "Users with expired subscriptions"
+msgstr "Users with expired subscriptions"
+
+#. js-lingui-explicit-id
+msgid "No Subscription"
+msgstr "No Subscription"
+
+#. js-lingui-explicit-id
+msgid "Users without any subscription"
+msgstr "Users without any subscription"
+
+#. js-lingui-explicit-id
+msgid "Group Management"
+msgstr "Group Management"
+
+#. js-lingui-explicit-id
+msgid "Manage subscription plans and pricing"
+msgstr "Manage subscription plans and pricing"
+
+#. js-lingui-explicit-id
+msgid "View and manage group members"
+msgstr "View and manage group members"
+
+#. js-lingui-explicit-id
+msgid "Added By"
+msgstr "Added By"
+
+#. js-lingui-explicit-id
+msgid "Welcome to TeleGate"
+msgstr "Welcome to TeleGate"
+
+#. js-lingui-explicit-id
+msgid "Please authorize with Telegram to continue"
+msgstr "Please authorize with Telegram to continue"
+
+#. js-lingui-explicit-id
+msgid "Authenticating..."
+msgstr "Authenticating..."
+
+#. js-lingui-explicit-id
+msgid "Login with Telegram"
+msgstr "Login with Telegram"
+
+#. js-lingui-explicit-id
+msgid "TeleGate - Feedback and Recommendations"
+msgstr "TeleGate - Feedback and Recommendations"
+
+#. js-lingui-explicit-id
+msgid "Hello! Here is my feedback and recommendations for TeleGate app:"
+msgstr "Hello! Here is my feedback and recommendations for TeleGate app:"
+
+#. js-lingui-explicit-id
+msgid "Analytics Dashboard"
+msgstr "Analytics Dashboard"
+
+#. js-lingui-explicit-id
+msgid "Section in Development"
+msgstr "Section in Development"
+
+#. js-lingui-explicit-id
+msgid "This section is currently under active development. Detailed analytics and reports will be available soon."
+msgstr "This section is currently under active development. Detailed analytics and reports will be available soon."
+
+#. js-lingui-explicit-id
+msgid "Send Feedback"
+msgstr "Send Feedback"
+
+#. js-lingui-explicit-id
+msgid "Configuration Error"
+msgstr "Configuration Error"
+
+#. js-lingui-explicit-id
+msgid "Please contact the developers about this issue."
+msgstr "Please contact the developers about this issue."
+
+#. js-lingui-explicit-id
+msgid "Authentication Timeout"
+msgstr "Authentication Timeout"
+
+#. js-lingui-explicit-id
+msgid "Please try again."
+msgstr "Please try again."
+
+#. js-lingui-explicit-id
+msgid "Authentication Failed"
+msgstr "Authentication Failed"
+
+#. js-lingui-explicit-id
+msgid "Failed to save authentication data"
+msgstr "Failed to save authentication data"
+
+#. js-lingui-explicit-id
+msgid "Failed to complete authentication. Tap to try again."
+msgstr "Failed to complete authentication. Tap to try again."
+
+#. js-lingui-explicit-id
+msgid "Invalid response from server. Tap to try again."
+msgstr "Invalid response from server. Tap to try again."
+
+#. js-lingui-explicit-id
+msgid "Please try again or contact support."
+msgstr "Please try again or contact support."
+
+#. js-lingui-explicit-id
+msgid "Authentication was cancelled or denied. Please try again."
+msgstr "Authentication was cancelled or denied. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Invalid authentication response. Please try again."
+msgstr "Invalid authentication response. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Missing authentication parameters. Please try again."
+msgstr "Missing authentication parameters. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Invalid authentication signature. Please try again."
+msgstr "Invalid authentication signature. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Authentication data has expired. Please try again."
+msgstr "Authentication data has expired. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Server configuration error. Please try again."
+msgstr "Server configuration error. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Authentication Successful"
+msgstr "Authentication Successful"
+
+#. js-lingui-explicit-id
+msgid "Welcome back!"
+msgstr "Welcome back!"
+
+#. js-lingui-explicit-id
+msgid "Logged Out"
+msgstr "Logged Out"
+
+#. js-lingui-explicit-id
+msgid "You have been logged out"
+msgstr "You have been logged out"
+
+#. js-lingui-explicit-id
+msgid "Profile"
+msgstr "Profile"
+
+#. js-lingui-explicit-id
+msgid "Unknown Tab"
+msgstr "Unknown Tab"
+
+#. js-lingui-explicit-id
+msgid "Telegram requires additional verification for security purposes."
+msgstr "Telegram requires additional verification for security purposes."
+
+#. js-lingui-explicit-id
+msgid "Unable to process verification data. Please try again."
+msgstr "Unable to process verification data. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Unable to load verification page. Please try again."
+msgstr "Unable to load verification page. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Verification was cancelled. Please try again."
+msgstr "Verification was cancelled. Please try again."
+
+#. js-lingui-explicit-id
+msgid "Telegram Login"
+msgstr "Telegram Login"
+
+#. js-lingui-explicit-id
+msgid "Loading Telegram..."
+msgstr "Loading Telegram..."
+
+#. js-lingui-explicit-id
+msgid "Redirecting..."
+msgstr "Redirecting..."
+
+#. js-lingui-explicit-id
+msgid "Please wait while we redirect you to Telegram"
+msgstr "Please wait while we redirect you to Telegram"
+
+#. js-lingui-explicit-id
+msgid "Additional Verification Required"
+msgstr "Additional Verification Required"
+
+#. js-lingui-explicit-id
+msgid "Telegram requires additional verification for security purposes. This is a standard security measure to protect your account."
+msgstr "Telegram requires additional verification for security purposes. This is a standard security measure to protect your account."
+
+#. js-lingui-explicit-id
+msgid "Please try again to complete the verification process."
+msgstr "Please try again to complete the verification process."
+
+#. js-lingui-explicit-id
+msgid "Try Again"
+msgstr "Try Again"
+
+#. js-lingui-explicit-id
+msgid "Connection error. Please check your internet connection and try again."
+msgstr "Connection error. Please check your internet connection and try again."
+
+#. js-lingui-explicit-id
+msgid "By using this app, you agree to our"
+msgstr "By using this app, you agree to our"
+
+#. js-lingui-explicit-id
+msgid "and"
+msgstr "and"
+
+#. js-lingui-explicit-id
+msgid "This app is in development stage. Some features may not work or work incorrectly, but if you take a subscription and send us feedback, it will speed up product development."
+msgstr "This app is in development stage. Some features may not work or work incorrectly, but if you take a subscription and send us feedback, it will speed up product development."

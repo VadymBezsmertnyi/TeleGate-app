@@ -1,0 +1,15 @@
+{
+  "cli": {
+    "version": ">= 4.1.2"
+  },
+  "build": {
+    "production": {
+      "channel": "production",
+      "environment": "production"
+    },
+    "staging": {
+      "channel": "staging",
+      "environment": "development"
+    }
+  }
+}

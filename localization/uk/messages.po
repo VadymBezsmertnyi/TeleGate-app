@@ -1,0 +1,1554 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-08-08 07:07+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: uk\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+msgid "Checking authentication..."
+msgstr "Перевірка автентифікації..."
+
+#. js-lingui-explicit-id
+msgid "Welcome back! Redirecting..."
+msgstr "Вітаємо з поверненням! Перенаправлення..."
+
+#. js-lingui-explicit-id
+msgid "Redirecting to login..."
+msgstr "Перенаправлення до входу..."
+
+#. js-lingui-explicit-id
+msgid "Loading..."
+msgstr "Завантаження..."
+
+#. js-lingui-explicit-id
+msgid "No members match your search"
+msgstr "Немає учасників, що відповідають вашому пошуку"
+
+#. js-lingui-explicit-id
+msgid "Try adjusting your search or filters"
+msgstr "Спробуйте налаштувати свій пошук або фільтри"
+
+#. js-lingui-explicit-id
+msgid "No members found"
+msgstr "Не знайдено учасників"
+
+#. js-lingui-explicit-id
+msgid "You haven't added any members yet"
+msgstr "Ви ще не додали жодного учасника"
+
+#. js-lingui-explicit-id
+msgid "Users are added automatically to the group"
+msgstr "Користувачі додаються автоматично до групи"
+
+#. js-lingui-explicit-id
+msgid "Bot Setup"
+msgstr "Налаштування бота"
+
+#. js-lingui-explicit-id
+msgid "Users"
+msgstr "Користувачі"
+
+#. js-lingui-explicit-id
+msgid "Search users..."
+msgstr "Пошук користувачів..."
+
+#. js-lingui-explicit-id
+msgid "All"
+msgstr "Всі"
+
+#. js-lingui-explicit-id
+msgid "Members"
+msgstr "Учасники"
+
+#. js-lingui-explicit-id
+msgid "Administrators"
+msgstr "Адміністратори"
+
+#. js-lingui-explicit-id
+msgid "Creators"
+msgstr "Створювачі"
+
+#. js-lingui-explicit-id
+msgid "Applied Filters"
+msgstr "Застосовані фільтри"
+
+#. js-lingui-explicit-id
+msgid "Status"
+msgstr "Статус"
+
+#. js-lingui-explicit-id
+msgid "Creator"
+msgstr "Створювач"
+
+#. js-lingui-explicit-id
+msgid "Administrator"
+msgstr "Адміністратор"
+
+#. js-lingui-explicit-id
+msgid "Member"
+msgstr "Учасник"
+
+#. js-lingui-explicit-id
+msgid "Restricted"
+msgstr "Обмежений"
+
+#. js-lingui-explicit-id
+msgid "Left"
+msgstr "Покинув"
+
+#. js-lingui-explicit-id
+msgid "Kicked"
+msgstr "Виключений"
+
+#. js-lingui-explicit-id
+msgid "User Type"
+msgstr "Тип користувача"
+
+#. js-lingui-explicit-id
+msgid "Regular User"
+msgstr "Звичайний користувач"
+
+#. js-lingui-explicit-id
+msgid "Bot"
+msgstr "Бот"
+
+#. js-lingui-explicit-id
+msgid "Language"
+msgstr "Мова"
+
+#. js-lingui-explicit-id
+msgid "Capabilities"
+msgstr "Можливості"
+
+#. js-lingui-explicit-id
+msgid "Can Join Groups"
+msgstr "Може приєднуватися до груп"
+
+#. js-lingui-explicit-id
+msgid "Can Read All Messages"
+msgstr "Може читати всі повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Supports Inline Queries"
+msgstr "Підтримує інлайн-запити"
+
+#. js-lingui-explicit-id
+msgid "Created Date"
+msgstr "Дата створення"
+
+#. js-lingui-explicit-id
+msgid "Last 7 days"
+msgstr "Останні 7 днів"
+
+#. js-lingui-explicit-id
+msgid "Last 30 days"
+msgstr "Останні 30 днів"
+
+#. js-lingui-explicit-id
+msgid "Last 90 days"
+msgstr "Останні 90 днів"
+
+#. js-lingui-explicit-id
+msgid "Last year"
+msgstr "Останній рік"
+
+#. js-lingui-explicit-id
+msgid "Filters"
+msgstr "Фільтри"
+
+#. js-lingui-explicit-id
+msgid "Only members matching all selected criteria will be shown."
+msgstr "Будуть показані тільки учасники, що відповідають всім вибраним критеріям."
+
+#. js-lingui-explicit-id
+msgid "Reset"
+msgstr "Скинути"
+
+#. js-lingui-explicit-id
+msgid "Save as view"
+msgstr "Зберегти як перегляд"
+
+#. js-lingui-explicit-id
+msgid "Apply Filters"
+msgstr "Застосувати фільтри"
+
+#. js-lingui-explicit-id
+msgid "Error"
+msgstr "Помилка"
+
+#. js-lingui-explicit-id
+msgid "Cannot send message: user not found or not in any groups"
+msgstr "Не вдалося надіслати повідомлення: користувача не знайдено або він не в жодній групі"
+
+#. js-lingui-explicit-id
+msgid "OK"
+msgstr "ОК"
+
+#. js-lingui-explicit-id
+msgid "Feature in Development"
+msgstr "Функція в розробці"
+
+#. js-lingui-explicit-id
+msgid "User removal functionality is currently being developed"
+msgstr "Функціонал видалення користувача наразі розробляється"
+
+#. js-lingui-explicit-id
+msgid "User data not available"
+msgstr "Дані користувача недоступні"
+
+#. js-lingui-explicit-id
+msgid "Profile not available"
+msgstr "Профіль недоступний"
+
+#. js-lingui-explicit-id
+msgid "This user has no public Telegram profile"
+msgstr "У цього користувача немає публічного профілю Telegram"
+
+#. js-lingui-explicit-id
+msgid "Telegram profile not available"
+msgstr "Профіль Telegram недоступний"
+
+#. js-lingui-explicit-id
+msgid "Failed to open profile in Telegram"
+msgstr "Не вдалося відкрити профіль у Telegram"
+
+#. js-lingui-explicit-id
+msgid "User Details"
+msgstr "Деталі користувача"
+
+#. js-lingui-explicit-id
+msgid "groups"
+msgstr "групи"
+
+#. js-lingui-explicit-id
+msgid "subscriptions"
+msgstr "підписки"
+
+#. js-lingui-explicit-id
+msgid "days delay"
+msgstr "днів затримки"
+
+#. js-lingui-explicit-id
+msgid "View Profile"
+msgstr "Переглянути профіль"
+
+#. js-lingui-explicit-id
+msgid "Message"
+msgstr "Повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Remove"
+msgstr "Видалити"
+
+#. js-lingui-explicit-id
+msgid "Active Groups"
+msgstr "Активні групи"
+
+#. js-lingui-explicit-id
+msgid "Show all"
+msgstr "Показати всі"
+
+#. js-lingui-explicit-id
+msgid "more"
+msgstr "більше"
+
+#. js-lingui-explicit-id
+msgid "Show less"
+msgstr "Показати менше"
+
+#. js-lingui-explicit-id
+msgid "Active Subscriptions"
+msgstr "Активні підписки"
+
+#. js-lingui-explicit-id
+msgid "Subscription"
+msgstr "Підписка"
+
+#. js-lingui-explicit-id
+msgid "Group"
+msgstr "Група"
+
+#. js-lingui-explicit-id
+msgid "Until"
+msgstr "До"
+
+#. js-lingui-explicit-id
+msgid "Message cannot be empty"
+msgstr "Повідомлення не може бути порожнім"
+
+#. js-lingui-explicit-id
+msgid "User not available"
+msgstr "Користувач недоступний"
+
+#. js-lingui-explicit-id
+msgid "Please select at least one group"
+msgstr "Будь ласка, виберіть принаймні одну групу"
+
+#. js-lingui-explicit-id
+msgid "Message sent successfully"
+msgstr "Повідомлення успішно надіслано"
+
+#. js-lingui-explicit-id
+msgid "Failed to send message"
+msgstr "Не вдалося надіслати повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Send Message"
+msgstr "Надіслати повідомлення"
+
+#. js-lingui-explicit-id
+msgid "User"
+msgstr "Користувач"
+
+#. js-lingui-explicit-id
+msgid "Select Groups"
+msgstr "Вибрати групи"
+
+#. js-lingui-explicit-id
+msgid "User is not a member of any groups"
+msgstr "Користувач не є учасником жодної групи"
+
+#. js-lingui-explicit-id
+msgid "Type your message here..."
+msgstr "Введіть своє повідомлення тут..."
+
+#. js-lingui-explicit-id
+msgid "Sending..."
+msgstr "Надсилання..."
+
+#. js-lingui-explicit-id
+msgid "My Subscriptions"
+msgstr "Мої підписки"
+
+#. js-lingui-explicit-id
+msgid "Compare Plans"
+msgstr "Порівняти плани"
+
+#. js-lingui-explicit-id
+msgid "Free"
+msgstr "Безкоштовно"
+
+#. js-lingui-explicit-id
+msgid "Current Plan"
+msgstr "Поточний план"
+
+#. js-lingui-explicit-id
+msgid "Basic features, limited access"
+msgstr "Основні функції, обмежений доступ"
+
+#. js-lingui-explicit-id
+msgid "Manage 1 group"
+msgstr "Керувати 1 групою"
+
+#. js-lingui-explicit-id
+msgid "Up to 20 members per group"
+msgstr "До 20 учасників на групу"
+
+#. js-lingui-explicit-id
+msgid "No filters"
+msgstr "Без фільтрів"
+
+#. js-lingui-explicit-id
+msgid "No analytics"
+msgstr "Без аналітики"
+
+#. js-lingui-explicit-id
+msgid "No bot templates"
+msgstr "Без шаблонів бота"
+
+#. js-lingui-explicit-id
+msgid "No automation"
+msgstr "Без автоматизації"
+
+#. js-lingui-explicit-id
+msgid "Upgrade to Pro"
+msgstr "Оновити до Pro"
+
+#. js-lingui-explicit-id
+msgid "Upgrade"
+msgstr "Оновити"
+
+#. js-lingui-explicit-id
+msgid "Manage up to 5 groups"
+msgstr "Керувати до 5 груп"
+
+#. js-lingui-explicit-id
+msgid "Unlimited groups"
+msgstr "Необмежена кількість груп"
+
+#. js-lingui-explicit-id
+msgid "Up to 100 members per group"
+msgstr "До 100 учасників на групу"
+
+#. js-lingui-explicit-id
+msgid "Unlimited members"
+msgstr "Необмежена кількість учасників"
+
+#. js-lingui-explicit-id
+msgid "Available filters"
+msgstr "Доступні фільтри"
+
+#. js-lingui-explicit-id
+msgid "Smart filters"
+msgstr "Розумні фільтри"
+
+#. js-lingui-explicit-id
+msgid "Basic analytics"
+msgstr "Основна аналітика"
+
+#. js-lingui-explicit-id
+msgid "Full analytics"
+msgstr "Повна аналітика"
+
+#. js-lingui-explicit-id
+msgid "Basic bot templates"
+msgstr "Основні шаблони бота"
+
+#. js-lingui-explicit-id
+msgid "Advanced bot scenarios"
+msgstr "Розширені сценарії бота"
+
+#. js-lingui-explicit-id
+msgid "Automation (coming soon)"
+msgstr "Автоматизація (скоро буде)"
+
+#. js-lingui-explicit-id
+msgid "Upgrade to"
+msgstr "Оновити до"
+
+#. js-lingui-explicit-id
+msgid "Logout"
+msgstr "Вийти"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to logout?"
+msgstr "Ви впевнені, що хочете вийти?"
+
+#. js-lingui-explicit-id
+msgid "Cancel"
+msgstr "Скасувати"
+
+#. js-lingui-explicit-id
+msgid "Settings"
+msgstr "Налаштування"
+
+#. js-lingui-explicit-id
+msgid "Bot Templates & Settings"
+msgstr "Шаблони ботів та налаштування"
+
+#. js-lingui-explicit-id
+msgid "Theme"
+msgstr "Тема"
+
+#. js-lingui-explicit-id
+msgid "Privacy Policy"
+msgstr "Політикою конфіденційності"
+
+#. js-lingui-explicit-id
+msgid "Terms of Use"
+msgstr "Умовами використання"
+
+#. js-lingui-explicit-id
+msgid "About"
+msgstr "Про додаток"
+
+#. js-lingui-explicit-id
+msgid "Manage groups"
+msgstr "Керувати групами"
+
+#. js-lingui-explicit-id
+msgid "Unlimited"
+msgstr "Необмежено"
+
+#. js-lingui-explicit-id
+msgid "Members per group"
+msgstr "Учасників на групу"
+
+#. js-lingui-explicit-id
+msgid "Analytics"
+msgstr "Аналітика"
+
+#. js-lingui-explicit-id
+msgid "Basic"
+msgstr "Основний"
+
+#. js-lingui-explicit-id
+msgid "Full"
+msgstr "Повний"
+
+#. js-lingui-explicit-id
+msgid "Bot templates"
+msgstr "Шаблони бота"
+
+#. js-lingui-explicit-id
+msgid "Advanced"
+msgstr "Розширений"
+
+#. js-lingui-explicit-id
+msgid "Automation"
+msgstr "Автоматизація"
+
+#. js-lingui-explicit-id
+msgid "Coming soon"
+msgstr "Скоро буде"
+
+#. js-lingui-explicit-id
+msgid "Feature"
+msgstr "Функція"
+
+#. js-lingui-explicit-id
+msgid "Pro"
+msgstr "Pro"
+
+#. js-lingui-explicit-id
+msgid "Ultimate"
+msgstr "Ultimate"
+
+#. js-lingui-explicit-id
+msgid "Upgrade to Ultimate"
+msgstr "Оновити до Ultimate"
+
+#. js-lingui-explicit-id
+msgid "Reset Template"
+msgstr "Скинути шаблон"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to reset this template to default?"
+msgstr "Ви впевнені, що хочете скинути цей шаблон до стандартного?"
+
+#. js-lingui-explicit-id
+msgid "Delete Template"
+msgstr "Видалити шаблон"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to delete this template?"
+msgstr "Ви впевнені, що хочете видалити цей шаблон?"
+
+#. js-lingui-explicit-id
+msgid "Delete"
+msgstr "Видалити"
+
+#. js-lingui-explicit-id
+msgid "Bot Templates"
+msgstr "Шаблони бота"
+
+#. js-lingui-explicit-id
+msgid "Loading templates..."
+msgstr "Завантаження шаблонів..."
+
+#. js-lingui-explicit-id
+msgid "No Templates"
+msgstr "Немає шаблонів"
+
+#. js-lingui-explicit-id
+msgid "Create your first message template to get started"
+msgstr "Створіть свій перший шаблон повідомлення, щоб почати"
+
+#. js-lingui-explicit-id
+msgid "Create Template"
+msgstr "Створити шаблон"
+
+#. js-lingui-explicit-id
+msgid "Enter your message template..."
+msgstr "Введіть шаблон повідомлення..."
+
+#. js-lingui-explicit-id
+msgid "Edit"
+msgstr "Редагувати"
+
+#. js-lingui-explicit-id
+msgid "Reset to Default"
+msgstr "Скинути до стандартного"
+
+#. js-lingui-explicit-id
+msgid "Template title is required"
+msgstr "Назва шаблону обов'язкова"
+
+#. js-lingui-explicit-id
+msgid "Template message is required"
+msgstr "Повідомлення шаблону обов'язкове"
+
+#. js-lingui-explicit-id
+msgid "Discard Changes"
+msgstr "Скасувати зміни"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to discard changes?"
+msgstr "Ви впевнені, що хочете скасувати зміни?"
+
+#. js-lingui-explicit-id
+msgid "Discard"
+msgstr "Скасувати"
+
+#. js-lingui-explicit-id
+msgid "Edit Template"
+msgstr "Редагувати шаблон"
+
+#. js-lingui-explicit-id
+msgid "Template Title"
+msgstr "Назва шаблону"
+
+#. js-lingui-explicit-id
+msgid "Enter template title..."
+msgstr "Введіть назву шаблону..."
+
+#. js-lingui-explicit-id
+msgid "Description"
+msgstr "Опис"
+
+#. js-lingui-explicit-id
+msgid "Enter description..."
+msgstr "Введіть опис..."
+
+#. js-lingui-explicit-id
+msgid "Message Template"
+msgstr "Шаблон повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Available Variables"
+msgstr "Доступні змінні"
+
+#. js-lingui-explicit-id
+msgid "Tap on a variable to insert it into your message"
+msgstr "Натисніть на змінну, щоб вставити її в повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Example Message"
+msgstr "Приклад повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Welcome {username} to {group}! We're glad to have you here. Your subscription expires on {expiry_date}."
+msgstr "Вітаємо {username} в {group}! Ми ради вас бачити. Ваша підписка закінчується {expiry_date}."
+
+#. js-lingui-explicit-id
+msgid "Update"
+msgstr "Оновити"
+
+#. js-lingui-explicit-id
+msgid "Create"
+msgstr "Створити"
+
+#. js-lingui-explicit-id
+msgid "Cannot open Telegram"
+msgstr "Не вдалося відкрити Telegram"
+
+#. js-lingui-explicit-id
+msgid "Authentication bot for TeleGate app"
+msgstr "Бот автентифікації для додатку TeleGate"
+
+#. js-lingui-explicit-id
+msgid "How to add bot to group"
+msgstr "Як додати бота до групи"
+
+#. js-lingui-explicit-id
+msgid "Open bot in Telegram"
+msgstr "Відкрити бота в Telegram"
+
+#. js-lingui-explicit-id
+msgid "Click the button below to open the bot in Telegram"
+msgstr "Натисніть кнопку нижче, щоб відкрити бота в Telegram"
+
+#. js-lingui-explicit-id
+msgid "Open Bot"
+msgstr "Відкрити бота"
+
+#. js-lingui-explicit-id
+msgid "Add bot to your group"
+msgstr "Додайте бота до своєї групи"
+
+#. js-lingui-explicit-id
+msgid "In the bot chat, click 'Add to Group or Channel' button"
+msgstr "У чаті бота натисніть кнопку 'Додати до групи або каналу'"
+
+#. js-lingui-explicit-id
+msgid "Grant all permissions"
+msgstr "Надати всі дозволи"
+
+#. js-lingui-explicit-id
+msgid "Make sure to enable all permissions for the bot"
+msgstr "Переконайтеся, що для бота увімкнено всі дозволи"
+
+#. js-lingui-explicit-id
+msgid "About users"
+msgstr "Про користувачів"
+
+#. js-lingui-explicit-id
+msgid "Users are added automatically to the group or when you tag them"
+msgstr "Користувачі додаються автоматично до групи або коли ви їх позначаєте"
+
+#. js-lingui-explicit-id
+msgid "Some users may have private profiles, so not all data may be available"
+msgstr "Деякі користувачі можуть мати приватні профілі, тому не всі дані можуть бути доступні"
+
+#. js-lingui-explicit-id
+msgid "Required permissions"
+msgstr "Необхідні дозволи"
+
+#. js-lingui-explicit-id
+msgid "Delete messages"
+msgstr "Видаляти повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Ban users"
+msgstr "Банити користувачів"
+
+#. js-lingui-explicit-id
+msgid "Invite users via link"
+msgstr "Запрошувати користувачів за посиланням"
+
+#. js-lingui-explicit-id
+msgid "Pin messages"
+msgstr "Закріплювати повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Add new admins"
+msgstr "Додавати нових адміністраторів"
+
+#. js-lingui-explicit-id
+msgid "Change group info"
+msgstr "Змінювати інформацію про групу"
+
+#. js-lingui-explicit-id
+msgid "This bot cannot independently manage a group"
+msgstr "Цей бот не може самостійно керувати групою"
+
+#. js-lingui-explicit-id
+msgid "Development status"
+msgstr "Статус розробки"
+
+#. js-lingui-explicit-id
+msgid "The app is in development - some features may not be available or work as expected"
+msgstr "Додаток знаходиться в розробці - деякі функції можуть бути недоступні або працювати не так, як очікується"
+
+#. js-lingui-explicit-id
+msgid "Automation events are being developed to configure bot actions for user management in groups"
+msgstr "Події автоматизації розробляються для налаштування дій бота для керування користувачами в групах"
+
+#. js-lingui-explicit-id
+msgid "Copied"
+msgstr "Скопійовано"
+
+#. js-lingui-explicit-id
+msgid "Test Message"
+msgstr "Тестове повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Test message sent successfully!"
+msgstr "Тестове повідомлення успішно надіслано!"
+
+#. js-lingui-explicit-id
+msgid "Success"
+msgstr "Успіх"
+
+#. js-lingui-explicit-id
+msgid "Bot settings saved successfully!"
+msgstr "Налаштування бота успішно збережено!"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to discard all changes?"
+msgstr "Ви впевнені, що хочете скасувати всі зміни?"
+
+#. js-lingui-explicit-id
+msgid "Bot Settings"
+msgstr "Налаштування бота"
+
+#. js-lingui-explicit-id
+msgid "Manage Bot Message Templates"
+msgstr "Керування шаблонами повідомлень бота"
+
+#. js-lingui-explicit-id
+msgid "Bot Behavior Settings"
+msgstr "Налаштування поведінки бота"
+
+#. js-lingui-explicit-id
+msgid "Auto-remove expired users"
+msgstr "Автоматично видаляти застарілих користувачів"
+
+#. js-lingui-explicit-id
+msgid "Grace period (days)"
+msgstr "Період відстрочки (днів)"
+
+#. js-lingui-explicit-id
+msgid "Auto-send reminders"
+msgstr "Автоматично надсилати нагадування"
+
+#. js-lingui-explicit-id
+msgid "Reminder intervals"
+msgstr "Інтервали нагадувань"
+
+#. js-lingui-explicit-id
+msgid "Integrations"
+msgstr "Інтеграції"
+
+#. js-lingui-explicit-id
+msgid "Webhook URL"
+msgstr "URL вебхука"
+
+#. js-lingui-explicit-id
+msgid "Secret Token"
+msgstr "Секретний токен"
+
+#. js-lingui-explicit-id
+msgid "Payment Provider"
+msgstr "Платіжний провайдер"
+
+#. js-lingui-explicit-id
+msgid "Select payment provider"
+msgstr "Вибрати платіжний провайдер"
+
+#. js-lingui-explicit-id
+msgid "Currency"
+msgstr "Валюта"
+
+#. js-lingui-explicit-id
+msgid "Select currency"
+msgstr "Вибрати валюту"
+
+#. js-lingui-explicit-id
+msgid "Test Actions"
+msgstr "Тестові дії"
+
+#. js-lingui-explicit-id
+msgid "Send Test Message to Me"
+msgstr "Надіслати тестове повідомлення мені"
+
+#. js-lingui-explicit-id
+msgid "Save"
+msgstr "Зберегти"
+
+#. js-lingui-explicit-id
+msgid "Daily"
+msgstr "Денний"
+
+#. js-lingui-explicit-id
+msgid "Weekly"
+msgstr "Щотижневий"
+
+#. js-lingui-explicit-id
+msgid "Monthly"
+msgstr "Щомісячний"
+
+#. js-lingui-explicit-id
+msgid "Yearly"
+msgstr "Щорічний"
+
+#. js-lingui-explicit-id
+msgid "Validation Error"
+msgstr "Помилка перевірки"
+
+#. js-lingui-explicit-id
+msgid "Please fill in all required fields"
+msgstr "Будь ласка, заповніть всі обов'язкові поля"
+
+#. js-lingui-explicit-id
+msgid "Edit Subscription"
+msgstr "Редагувати підписку"
+
+#. js-lingui-explicit-id
+msgid "Create Subscription"
+msgstr "Створити підписку"
+
+#. js-lingui-explicit-id
+msgid "Name"
+msgstr "Назва"
+
+#. js-lingui-explicit-id
+msgid "Enter subscription name"
+msgstr "Введіть назву підписки"
+
+#. js-lingui-explicit-id
+msgid "Enter subscription description"
+msgstr "Введіть опис підписки"
+
+#. js-lingui-explicit-id
+msgid "Price"
+msgstr "Ціна"
+
+#. js-lingui-explicit-id
+msgid "0.00"
+msgstr "0,00"
+
+#. js-lingui-explicit-id
+msgid "Type"
+msgstr "Тип"
+
+#. js-lingui-explicit-id
+msgid "Duration"
+msgstr "Тривалість"
+
+#. js-lingui-explicit-id
+msgid "Saving..."
+msgstr "Збереження..."
+
+#. js-lingui-explicit-id
+msgid "Save Changes"
+msgstr "Зберегти зміни"
+
+#. js-lingui-explicit-id
+msgid "Select Currency"
+msgstr "Вибрати валюту"
+
+#. js-lingui-explicit-id
+msgid "Search currencies..."
+msgstr "Пошук валют..."
+
+#. js-lingui-explicit-id
+msgid "Select Type"
+msgstr "Вибрати тип"
+
+#. js-lingui-explicit-id
+msgid "Connected"
+msgstr "Підключено"
+
+#. js-lingui-explicit-id
+msgid "Disconnected"
+msgstr "Відключено"
+
+#. js-lingui-explicit-id
+msgid "Active (7d)"
+msgstr "Активні (7д)"
+
+#. js-lingui-explicit-id
+msgid "Active (30d)"
+msgstr "Активні (30д)"
+
+#. js-lingui-explicit-id
+msgid "Inactive"
+msgstr "Неактивні"
+
+#. js-lingui-explicit-id
+msgid "This month"
+msgstr "Цього місяця"
+
+#. js-lingui-explicit-id
+msgid "Bot Status"
+msgstr "Статус бота"
+
+#. js-lingui-explicit-id
+msgid "Members Count"
+msgstr "Кількість учасників"
+
+#. js-lingui-explicit-id
+msgid "Activity"
+msgstr "Активність"
+
+#. js-lingui-explicit-id
+msgid "Select date range"
+msgstr "Вибрати діапазон дат"
+
+#. js-lingui-explicit-id
+msgid "Only groups matching all selected criteria will be shown."
+msgstr "Будуть показані тільки групи, що відповідають всім вибраним критеріям."
+
+#. js-lingui-explicit-id
+msgid "No groups match your search"
+msgstr "Немає груп, що відповідають вашому пошуку"
+
+#. js-lingui-explicit-id
+msgid "No groups found"
+msgstr "Немає знайдених груп"
+
+#. js-lingui-explicit-id
+msgid "You haven't added any groups yet"
+msgstr "Ви ще не додали жодної групи"
+
+#. js-lingui-explicit-id
+msgid "Groups"
+msgstr "Групи"
+
+#. js-lingui-explicit-id
+msgid "Search groups..."
+msgstr "Пошук груп..."
+
+#. js-lingui-explicit-id
+msgid "Unnamed Group"
+msgstr "Безіменна група"
+
+#. js-lingui-explicit-id
+msgid "No users match your filter"
+msgstr "Немає користувачів, що відповідають вашому фільтру"
+
+#. js-lingui-explicit-id
+msgid "Try adjusting your filter or switch to 'All' tab"
+msgstr "Спробуйте налаштувати свій фільтр або переключитися на вкладку 'Всі'"
+
+#. js-lingui-explicit-id
+msgid "No users found"
+msgstr "Користувачів не знайдено"
+
+#. js-lingui-explicit-id
+msgid "This group doesn't have any users yet"
+msgstr "У цієї групи ще немає користувачів"
+
+#. js-lingui-explicit-id
+msgid "Manage Users"
+msgstr "Керування користувачами"
+
+#. js-lingui-explicit-id
+msgid "Unknown user"
+msgstr "Невідомий користувач"
+
+#. js-lingui-explicit-id
+msgid "No subscription"
+msgstr "Без підписки"
+
+#. js-lingui-explicit-id
+msgid "Active"
+msgstr "Активно"
+
+#. js-lingui-explicit-id
+msgid "Expiring"
+msgstr "Закінчується"
+
+#. js-lingui-explicit-id
+msgid "Expired"
+msgstr "Застаріло"
+
+#. js-lingui-explicit-id
+msgid "Until:"
+msgstr "До:"
+
+#. js-lingui-explicit-id
+msgid "Group ID is required"
+msgstr "Ідентифікатор групи є обов'язковим"
+
+#. js-lingui-explicit-id
+msgid "Failed to load user data"
+msgstr "Не вдалося завантажити дані користувача"
+
+#. js-lingui-explicit-id
+msgid "Function in development"
+msgstr "Функція в розробці"
+
+#. js-lingui-explicit-id
+msgid "User deletion is temporarily unavailable"
+msgstr "Видалення користувача тимчасово недоступне"
+
+#. js-lingui-explicit-id
+msgid "Sending template messages is temporarily unavailable"
+msgstr "Надіслання шаблону тимчасово недоступне"
+
+#. js-lingui-explicit-id
+msgid "User not found"
+msgstr "Користувача не знайдено"
+
+#. js-lingui-explicit-id
+msgid "Check user ID validity"
+msgstr "Перевірте дійсність ідентифікатора користувача"
+
+#. js-lingui-explicit-id
+msgid "Basic Information"
+msgstr "Основна інформація"
+
+#. js-lingui-explicit-id
+msgid "Subscriptions"
+msgstr "Підписки"
+
+#. js-lingui-explicit-id
+msgid "Show history"
+msgstr "Показати історію"
+
+#. js-lingui-explicit-id
+msgid "Plan"
+msgstr "План"
+
+#. js-lingui-explicit-id
+msgid "Start"
+msgstr "Початок"
+
+#. js-lingui-explicit-id
+msgid "End"
+msgstr "Кінець"
+
+#. js-lingui-explicit-id
+msgid "Hide other subscriptions"
+msgstr "Сховати інші підписки"
+
+#. js-lingui-explicit-id
+msgid "Show other subscriptions"
+msgstr "Показати інші підписки"
+
+#. js-lingui-explicit-id
+msgid "No active subscriptions"
+msgstr "Немає активних підписок"
+
+#. js-lingui-explicit-id
+msgid "User has no active subscriptions"
+msgstr "У користувача немає активних підписок"
+
+#. js-lingui-explicit-id
+msgid "Loading groups..."
+msgstr "Завантаження груп..."
+
+#. js-lingui-explicit-id
+msgid "Created"
+msgstr "Створено"
+
+#. js-lingui-explicit-id
+msgid "Public"
+msgstr "Публічний"
+
+#. js-lingui-explicit-id
+msgid "Private"
+msgstr "Приватний"
+
+#. js-lingui-explicit-id
+msgid "User is not a member of any group"
+msgstr "Користувач не є учасником жодної групи"
+
+#. js-lingui-explicit-id
+msgid "Quick Actions"
+msgstr "Швидкі дії"
+
+#. js-lingui-explicit-id
+msgid "Open profile in Telegram"
+msgstr "Відкрити профіль у Telegram"
+
+#. js-lingui-explicit-id
+msgid "Write message"
+msgstr "Написати повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Send template"
+msgstr "Надіслати шаблон"
+
+#. js-lingui-explicit-id
+msgid "Give subscription"
+msgstr "Надати підписку"
+
+#. js-lingui-explicit-id
+msgid "Delete user"
+msgstr "Видалити користувача"
+
+#. js-lingui-explicit-id
+msgid "Additional Information"
+msgstr "Додаткова інформація"
+
+#. js-lingui-explicit-id
+msgid "Not specified"
+msgstr "Не вказано"
+
+#. js-lingui-explicit-id
+msgid "Can join groups"
+msgstr "Може приєднуватися до груп"
+
+#. js-lingui-explicit-id
+msgid "Yes"
+msgstr "Так"
+
+#. js-lingui-explicit-id
+msgid "No"
+msgstr "Ні"
+
+#. js-lingui-explicit-id
+msgid "Can read all messages"
+msgstr "Може читати всі повідомлення"
+
+#. js-lingui-explicit-id
+msgid "Supports inline queries"
+msgstr "Підтримує інлайн-запити"
+
+#. js-lingui-explicit-id
+msgid "Updated"
+msgstr "Оновлено"
+
+#. js-lingui-explicit-id
+msgid "Group not found"
+msgstr "Групу не знайдено"
+
+#. js-lingui-explicit-id
+msgid "Unnamed user"
+msgstr "Безіменний користувач"
+
+#. js-lingui-explicit-id
+msgid "Unknown group"
+msgstr "Невідома група"
+
+#. js-lingui-explicit-id
+msgid "Unnamed group"
+msgstr "Безіменна група"
+
+#. js-lingui-explicit-id
+msgid "Recipient"
+msgstr "Одержувач"
+
+#. js-lingui-explicit-id
+msgid "Send"
+msgstr "Надіслати"
+
+#. js-lingui-explicit-id
+msgid "Expiring soon"
+msgstr "Закінчується скоро"
+
+#. js-lingui-explicit-id
+msgid "Unknown"
+msgstr "Невідомо"
+
+#. js-lingui-explicit-id
+msgid "Subscription History"
+msgstr "Історія підписок"
+
+#. js-lingui-explicit-id
+msgid "All Subscriptions"
+msgstr "Всі підписки"
+
+#. js-lingui-explicit-id
+msgid "Purchase"
+msgstr "Покупка"
+
+#. js-lingui-explicit-id
+msgid "No subscription history found"
+msgstr "Історія підписок не знайдена"
+
+#. js-lingui-explicit-id
+msgid "Failed to load subscriptions"
+msgstr "Не вдалося завантажити підписки"
+
+#. js-lingui-explicit-id
+msgid "Please select a subscription"
+msgstr "Будь ласка, виберіть підписку"
+
+#. js-lingui-explicit-id
+msgid "day"
+msgstr "день"
+
+#. js-lingui-explicit-id
+msgid "week"
+msgstr "тиждень"
+
+#. js-lingui-explicit-id
+msgid "month"
+msgstr "місяць"
+
+#. js-lingui-explicit-id
+msgid "year"
+msgstr "рік"
+
+#. js-lingui-explicit-id
+msgid "Your subscription has been granted or extended in the group"
+msgstr "Ваша підписка була надана або продовжена в групі"
+
+#. js-lingui-explicit-id
+msgid "Subscription details:"
+msgstr "Деталі підписки:"
+
+#. js-lingui-explicit-id
+msgid "Thank you for being with us!"
+msgstr "Дякуємо, що ви з нами!"
+
+#. js-lingui-explicit-id
+msgid "Subscription granted successfully"
+msgstr "Підписка успішно надана"
+
+#. js-lingui-explicit-id
+msgid "Failed to give subscription"
+msgstr "Не вдалося надати підписку"
+
+#. js-lingui-explicit-id
+msgid "Available subscriptions"
+msgstr "Доступні підписки"
+
+#. js-lingui-explicit-id
+msgid "Loading subscriptions..."
+msgstr "Завантаження підписок..."
+
+#. js-lingui-explicit-id
+msgid "No subscriptions available for this group"
+msgstr "Немає доступних підписок для цієї групи"
+
+#. js-lingui-explicit-id
+msgid "Giving..."
+msgstr "Надання..."
+
+#. js-lingui-explicit-id
+msgid "Delete Subscription"
+msgstr "Видалити підписку"
+
+#. js-lingui-explicit-id
+msgid "Are you sure you want to delete this subscription? This action cannot be undone and will remove the subscription from all users."
+msgstr "Ви впевнені, що хочете видалити цю підписку? Цю дію не можна скасувати, і вона видалить підписку у всіх користувачів."
+
+#. js-lingui-explicit-id
+msgid "subscribers"
+msgstr "підписники"
+
+#. js-lingui-explicit-id
+msgid "No subscriptions"
+msgstr "Немає підписок"
+
+#. js-lingui-explicit-id
+msgid "Create the first subscription for this group"
+msgstr "Створіть першу підписку для цієї групи"
+
+#. js-lingui-explicit-id
+msgid "Add subscription"
+msgstr "Додати підписку"
+
+#. js-lingui-explicit-id
+msgid "Group Subscriptions"
+msgstr "Підписки на групи"
+
+#. js-lingui-explicit-id
+msgid "Group Details: {groupName}"
+msgstr "Деталі групи: {groupName}"
+
+#. js-lingui-explicit-id
+msgid "Group Information"
+msgstr "Інформація про групу"
+
+#. js-lingui-explicit-id
+msgid "members"
+msgstr "учасників"
+
+#. js-lingui-explicit-id
+msgid "Forum enabled"
+msgstr "Форум увімкнено"
+
+#. js-lingui-explicit-id
+msgid "User Statistics"
+msgstr "Статистика користувачів"
+
+#. js-lingui-explicit-id
+msgid "Available Subscriptions"
+msgstr "Доступні підписки"
+
+#. js-lingui-explicit-id
+msgid "Total subscription plans available for this group"
+msgstr "Загальна кількість планів підписки, доступних для цієї групи"
+
+#. js-lingui-explicit-id
+msgid "Active Users"
+msgstr "Активні користувачі"
+
+#. js-lingui-explicit-id
+msgid "Users with active subscriptions"
+msgstr "Користувачі з активними підписками"
+
+#. js-lingui-explicit-id
+msgid "Expired Users"
+msgstr "Застарілі користувачі"
+
+#. js-lingui-explicit-id
+msgid "Users with expired subscriptions"
+msgstr "Користувачі з застарілими підписками"
+
+#. js-lingui-explicit-id
+msgid "No Subscription"
+msgstr "Без підписки"
+
+#. js-lingui-explicit-id
+msgid "Users without any subscription"
+msgstr "Користувачі без підписки"
+
+#. js-lingui-explicit-id
+msgid "Group Management"
+msgstr "Керування групами"
+
+#. js-lingui-explicit-id
+msgid "Manage subscription plans and pricing"
+msgstr "Керування планами підписки та цінами"
+
+#. js-lingui-explicit-id
+msgid "View and manage group members"
+msgstr "Перегляд і керування учасниками групи"
+
+#. js-lingui-explicit-id
+msgid "Added By"
+msgstr "Додано"
+
+#. js-lingui-explicit-id
+msgid "Welcome to TeleGate"
+msgstr "Ласкаво просимо до TeleGate"
+
+#. js-lingui-explicit-id
+msgid "Please authorize with Telegram to continue"
+msgstr "Будь ласка, авторизуйтеся через Telegram, щоб продовжити"
+
+#. js-lingui-explicit-id
+msgid "Authenticating..."
+msgstr "Автентифікація..."
+
+#. js-lingui-explicit-id
+msgid "Login with Telegram"
+msgstr "Увійти через Telegram"
+
+#. js-lingui-explicit-id
+msgid "TeleGate - Feedback and Recommendations"
+msgstr "TeleGate - Відгуки та рекомендації"
+
+#. js-lingui-explicit-id
+msgid "Hello! Here is my feedback and recommendations for TeleGate app:"
+msgstr "Привіт! Ось мої відгуки та рекомендації щодо додатку Tele"
+
+#. js-lingui-explicit-id
+msgid "Analytics Dashboard"
+msgstr "Аналітична панель"
+
+#. js-lingui-explicit-id
+msgid "Section in Development"
+msgstr "Розділ у розробці"
+
+#. js-lingui-explicit-id
+msgid "This section is currently under active development. Detailed analytics and reports will be available soon."
+msgstr "Цей розділ наразі перебуває в активній розробці. Детальна аналітика та звіти будуть доступні найближчим часом."
+
+#. js-lingui-explicit-id
+msgid "Send Feedback"
+msgstr "Надіслати відгук"
+
+#. js-lingui-explicit-id
+msgid "Configuration Error"
+msgstr "Помилка конфігурації"
+
+#. js-lingui-explicit-id
+msgid "Please contact the developers about this issue."
+msgstr "Будь ласка, зверніться до розробників щодо цієї проблеми."
+
+#. js-lingui-explicit-id
+msgid "Authentication Timeout"
+msgstr "Час автентифікації вичерпано"
+
+#. js-lingui-explicit-id
+msgid "Please try again."
+msgstr "Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Authentication Failed"
+msgstr "Помилка автентифікації"
+
+#. js-lingui-explicit-id
+msgid "Failed to save authentication data"
+msgstr "Не вдалося зберегти дані автентифікації"
+
+#. js-lingui-explicit-id
+msgid "Failed to complete authentication. Tap to try again."
+msgstr "Не вдалося завершити автентифікацію. Натисніть, щоб спробувати ще раз."
+
+#. js-lingui-explicit-id
+msgid "Invalid response from server. Tap to try again."
+msgstr "Неправильна відповідь від сервера. Натисніть, щоб спробувати ще раз."
+
+#. js-lingui-explicit-id
+msgid "Please try again or contact support."
+msgstr "Будь ласка, спробуйте ще раз або зверніться до підтримки."
+
+#. js-lingui-explicit-id
+msgid "Authentication was cancelled or denied. Please try again."
+msgstr "Автентифікацію було скасовано або відхилено. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Invalid authentication response. Please try again."
+msgstr "Неправильна відповідь автентифікації. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Missing authentication parameters. Please try again."
+msgstr "Відсутні параметри автентифікації. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Invalid authentication signature. Please try again."
+msgstr "Неправильний підпис автентифікації. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Authentication data has expired. Please try again."
+msgstr "Дані автентифікації вичерпали термін дії. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Server configuration error. Please try again."
+msgstr "Помилка конфігурації сервера. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Authentication Successful"
+msgstr "Автентифікація успішна"
+
+#. js-lingui-explicit-id
+msgid "Welcome back!"
+msgstr "Вітаємо з поверненням!"
+
+#. js-lingui-explicit-id
+msgid "Logged Out"
+msgstr "Вихід виконано"
+
+#. js-lingui-explicit-id
+msgid "You have been logged out"
+msgstr "Ви вийшли з системи"
+
+#. js-lingui-explicit-id
+msgid "Profile"
+msgstr "Профіль"
+
+#. js-lingui-explicit-id
+msgid "Unknown Tab"
+msgstr "Невідома вкладка"
+
+#. js-lingui-explicit-id
+msgid "Telegram requires additional verification for security purposes."
+msgstr "Telegram потребує додаткової перевірки з метою безпеки."
+
+#. js-lingui-explicit-id
+msgid "Unable to process verification data. Please try again."
+msgstr "Не вдалося обробити дані перевірки. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Unable to load verification page. Please try again."
+msgstr "Не вдалося завантажити сторінку перевірки. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Verification was cancelled. Please try again."
+msgstr "Перевірку було скасовано. Будь ласка, спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "Telegram Login"
+msgstr "Вхід через Telegram"
+
+#. js-lingui-explicit-id
+msgid "Loading Telegram..."
+msgstr "Завантаження Telegram..."
+
+#. js-lingui-explicit-id
+msgid "Redirecting..."
+msgstr "Перенаправлення..."
+
+#. js-lingui-explicit-id
+msgid "Please wait while we redirect you to Telegram"
+msgstr "Будь ласка, зачекайте, поки ми перенаправимо вас до Telegram"
+
+#. js-lingui-explicit-id
+msgid "Additional Verification Required"
+msgstr "Потрібна додаткова перевірка"
+
+#. js-lingui-explicit-id
+msgid "Telegram requires additional verification for security purposes. This is a standard security measure to protect your account."
+msgstr "Telegram потребує додаткової перевірки з метою безпеки. Це стандартна захисна міра для захисту вашого облікового запису."
+
+#. js-lingui-explicit-id
+msgid "Please try again to complete the verification process."
+msgstr "Будь ласка, спробуйте ще раз, щоб завершити процес перевірки."
+
+#. js-lingui-explicit-id
+msgid "Try Again"
+msgstr "Спробувати ще раз"
+
+#. js-lingui-explicit-id
+msgid "Connection error. Please check your internet connection and try again."
+msgstr "Помилка з'єднання. Будь ласка, перевірте своє інтернет-з'єднання та спробуйте ще раз."
+
+#. js-lingui-explicit-id
+msgid "By using this app, you agree to our"
+msgstr "Використовуючи цей застосунок, ви погоджуєтеся з нашими"
+
+#. js-lingui-explicit-id
+msgid "and"
+msgstr "та"
+
+#. js-lingui-explicit-id
+msgid "This app is in development stage. Some features may not work or work incorrectly, but if you take a subscription and send us feedback, it will speed up product development."
+msgstr "Цей додаток знаходиться на стадії розробки. Деякі функції можуть не працювати або працювати неправильно, але якщо ви оформите підписку і надішлете нам відгук, це прискорить розробку продукту."

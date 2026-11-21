@@ -1,0 +1,338 @@
+import { StyleSheet } from "react-native";
+import colors from "../../../styles/colors";
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+  },
+  content: {
+    flex: 1,
+  },
+  contentContainer: {
+    paddingHorizontal: 16,
+    paddingBottom: 80,
+  },
+  header: {
+    flexDirection: "row",
+    paddingVertical: 20,
+    paddingHorizontal: 16,
+    borderBottomWidth: 1,
+    borderBottomColor: colors.gray800,
+    gap: 16,
+  },
+  avatarContainer: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+    backgroundColor: colors.gray800,
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  userInfoContainer: {
+    flex: 1,
+    justifyContent: "center",
+  },
+  avatar: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+  },
+  avatarPlaceholder: {
+    width: 80,
+    height: 80,
+    borderRadius: 40,
+    backgroundColor: colors.gray800,
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  userName: {
+    fontSize: 20,
+    fontWeight: "bold",
+    color: colors.white,
+    marginBottom: 4,
+  },
+  userUsername: {
+    fontSize: 14,
+    color: colors.gray300,
+    marginBottom: 6,
+  },
+  languageContainer: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginBottom: 12,
+    gap: 4,
+  },
+  languageText: {
+    fontSize: 12,
+    color: colors.gray400,
+    fontWeight: "500",
+  },
+  rolesContainer: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginBottom: 12,
+  },
+  rolesText: {
+    fontSize: 14,
+    color: colors.gray300,
+    marginRight: 4,
+  },
+  statusContainer: {
+    flexDirection: "row",
+    alignItems: "center",
+    marginBottom: 16,
+  },
+  statusText: {
+    fontSize: 14,
+    color: colors.successGreen,
+    marginLeft: 4,
+  },
+  expiresText: {
+    fontSize: 12,
+    color: colors.gray400,
+    marginLeft: 8,
+  },
+  actionSection: {
+    paddingVertical: 16,
+    paddingHorizontal: 16,
+    borderBottomWidth: 1,
+    borderBottomColor: colors.gray800,
+  },
+  viewProfileButton: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: colors.primary,
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+    marginBottom: 12,
+    gap: 8,
+  },
+  viewProfileButtonText: {
+    fontSize: 14,
+    color: colors.white,
+    fontWeight: "600",
+  },
+  otherActionButtons: {
+    flexDirection: "row",
+    gap: 8,
+  },
+  actionButton: {
+    flex: 1,
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: colors.gray800,
+    paddingVertical: 10,
+    paddingHorizontal: 12,
+    borderRadius: 8,
+    borderWidth: 1,
+    borderColor: colors.gray900,
+  },
+  actionButtonText: {
+    fontSize: 12,
+    color: colors.white,
+    marginLeft: 4,
+  },
+  section: {
+    marginTop: 24,
+  },
+  sectionTitle: {
+    fontSize: 18,
+    fontWeight: "bold",
+    color: colors.white,
+    marginBottom: 16,
+  },
+  contactItem: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "space-between",
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    backgroundColor: colors.gray800,
+    borderRadius: 8,
+    marginBottom: 8,
+  },
+  contactInfo: {
+    flexDirection: "row",
+    alignItems: "center",
+    flex: 1,
+  },
+  contactIcon: {
+    marginRight: 12,
+  },
+  contactText: {
+    fontSize: 14,
+    color: colors.white,
+  },
+  copyButton: {
+    backgroundColor: colors.blue600,
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 6,
+  },
+  copyButtonText: {
+    fontSize: 12,
+    color: colors.white,
+    fontWeight: "500",
+  },
+  groupItem: {
+    flexDirection: "row",
+    alignItems: "center",
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    backgroundColor: colors.gray800,
+    borderRadius: 8,
+    marginBottom: 8,
+  },
+  groupIcon: {
+    marginRight: 12,
+  },
+  groupInfo: {
+    flex: 1,
+  },
+  groupName: {
+    fontSize: 16,
+    fontWeight: "600",
+    color: colors.white,
+    marginBottom: 4,
+  },
+  groupRole: {
+    fontSize: 12,
+    color: colors.gray300,
+    backgroundColor: colors.gray900,
+    paddingHorizontal: 8,
+    paddingVertical: 2,
+    borderRadius: 12,
+    alignSelf: "flex-start",
+    marginBottom: 4,
+  },
+  groupStatus: {
+    fontSize: 12,
+    color: colors.gray400,
+  },
+  historyItem: {
+    flexDirection: "row",
+    alignItems: "center",
+    paddingVertical: 8,
+    paddingHorizontal: 16,
+    backgroundColor: colors.gray800,
+    borderRadius: 8,
+    marginBottom: 6,
+  },
+  historyIcon: {
+    marginRight: 12,
+  },
+  historyText: {
+    fontSize: 14,
+    color: colors.white,
+    flex: 1,
+  },
+  historyDate: {
+    fontSize: 12,
+    color: colors.gray400,
+  },
+  noteContainer: {
+    backgroundColor: colors.gray800,
+    borderRadius: 8,
+    padding: 16,
+    marginBottom: 12,
+  },
+  noteText: {
+    fontSize: 14,
+    color: colors.white,
+    marginBottom: 8,
+  },
+  noteDate: {
+    fontSize: 12,
+    color: colors.gray400,
+  },
+  addNoteButton: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: colors.blue600,
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    borderRadius: 8,
+  },
+  addNoteButtonText: {
+    fontSize: 14,
+    color: colors.white,
+    fontWeight: "500",
+    marginLeft: 6,
+  },
+  loadingContainer: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  errorText: {
+    fontSize: 16,
+    color: colors.errorRed,
+    textAlign: "center",
+  },
+  compactStatsContainer: {
+    flexDirection: "row",
+    flexWrap: "wrap",
+    gap: 6,
+  },
+  compactStatItem: {
+    flexDirection: "row",
+    alignItems: "center",
+    backgroundColor: colors.gray800,
+    paddingHorizontal: 10,
+    paddingVertical: 6,
+    borderRadius: 16,
+    gap: 4,
+  },
+  compactStatText: {
+    fontSize: 12,
+    color: colors.white,
+    fontWeight: "500",
+  },
+  subscriptionItem: {
+    flexDirection: "row",
+    alignItems: "center",
+    backgroundColor: colors.gray800,
+    padding: 16,
+    borderRadius: 12,
+    marginBottom: 12,
+  },
+  subscriptionIcon: {
+    marginRight: 12,
+  },
+  subscriptionInfo: {
+    flex: 1,
+  },
+  subscriptionTitle: {
+    fontSize: 16,
+    fontWeight: "600",
+    color: colors.white,
+    marginBottom: 4,
+  },
+  subscriptionGroup: {
+    fontSize: 14,
+    color: colors.gray300,
+    marginBottom: 2,
+  },
+  subscriptionDate: {
+    fontSize: 12,
+    color: colors.gray400,
+  },
+  showAllButton: {
+    flexDirection: "row",
+    alignItems: "center",
+    justifyContent: "center",
+    paddingVertical: 12,
+    marginTop: 8,
+  },
+  showAllButtonText: {
+    fontSize: 14,
+    color: colors.primary,
+    marginRight: 4,
+  },
+});
+
+export { styles };
